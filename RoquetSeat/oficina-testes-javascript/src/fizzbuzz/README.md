@@ -7,13 +7,13 @@ Escreva um programa que mostre números de 1 a 100.
 
 Se o número não for múltiplo nem de 3, nem de 5, retorne ele mesmo.
 
-Execute os seguintes comandos:
+### Execute os seguintes comandos:
 ```
 cd src/
 npm install
 ```
 
-Para rodar os testes
+### Para rodar os testes
 ```
 npm run test 
 ```
