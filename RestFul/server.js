@@ -1,5 +1,5 @@
 const express = require('express'); // Chamando express
-const app = express(); // instanciando ma variável app
+const app = express(); // instanciando na variável app
 const data = require('./data.json')
 
 app.use(express.json()); //Avisar o express para usar json
